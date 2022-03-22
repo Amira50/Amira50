@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amira50
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning the basics of programming
-- 💞️ I’m looking to collaborate on learning.
+- 👋 Hi, I’m Amira Loutfi
+- 👀 I’m interested in building websites
+- 🌱 I'm looking to share my work and collaborate 
+- 💞️ When I'm not coding, I'm writing fiction
 - 📫 You can email me here -- Amira @ metastellar . com
 
 <!---
